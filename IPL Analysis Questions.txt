@@ -1,0 +1,58 @@
+innings:
+
+1. year-wise is there any effect of first team batting: P(win/lose) depends on inning?
+
+batsman/ bowler:
+
+1. strike rate (runs per balls)
+
+2. highest/lowest run per match/ total runs in a series/ overall(avg run rate/yr)
+
+3. performace of player every year, then compare if it is impacted due to change in team, or retained in same team
+
+4. effective bowler against top performing batsman/ how batsman is dismissed from field( wicket-to-wicket/ side-to-side what kind of strategy to use against them based on dismissal)
+
+5. death bowler specialist
+
+6. best Economy of the bowler: Run scored / (No. of ball bowled by bowler / 6).
+
+7. Wicket taking ability: No. of balls bowled / Wicket taken.
+
+8. Consistency: Run conceded / Wicket taken.
+
+
+additional analysis of the game:
+
+1. (STILL UNDER INVESTIGATION)which teams won against which other team and how many times...(used to predict next match outcome)
+
+2. effective opener, chaser, closing-bowler, closing-batsman(overall year wise)
+
+3. P(winning the game) based on total runs in a powerplay(3)
+
+4. best opening partnership
+
+5. top 10 players(bowler/ batsmen/ fielder) season-wise & overall IPL record
+
+6. highest 6/4 by each player per season
+(can find any correlation between 5 & 6?)
+
+7. how many times does chasing team has won the match
+
+8. which team scored 200+ against other team
+
+9. highest scoring(batsman/ bower) player's impact in team
+
+10. (STILL UNDER INVESTIGATION)(**DIFFICULT, come to this at last) does change in position make peroramnce of a batter better than before
+
+11. Hard-hitting batsman = (Fours + Sixes) / Ball played by batsman
+
+12. highest consecutive sixes (6 sixes, 5 sixes, 4 sixes...) in an over: info about the player / most hattricks in 
+a season
+
+13. longest overs bowled in IPL
+
+14. Consistency of Player: Total Run / No. of times out.
+
+15. Running b/w the wickets: (Total run – (Fours + Sixes)) / (total ball played – boundry balls). (If this fourth 
+metric is better in batsman than the hard-hitting metrics, then you can easily guess that he is not good at hitting boundaries but is good at getting singles, twos, and threes on other balls.)
+
